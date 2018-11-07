@@ -29,8 +29,10 @@ RUN set -ex \
     netcat-openbsd \
     ngrep \
     nmap \
+    nmap-ncat \
     nmap-nping \
-    nmap-nping \
+    nmap-nselibs \
+    nmap-scripts \
     py-crypto \
     py2-virtualenv \
     python2 \
